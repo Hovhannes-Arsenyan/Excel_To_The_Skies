@@ -116,4 +116,5 @@ This Excel Add-In adds 115 new functions to Excel and adds a Datepicker control.
 114. UNIQUE_ONLY_NUMBERS_TEXT_CLEAN() - Returns an array of unique values of all data dypes on the specified data containing only trimmed and cleaned text and numbers.
 115. WEEKDAY_NAME() - Returns the weekday name from the specified Date_Time. Available Result_Style parameters - "s","m","l". Defaut = "l". "s" = "M","m" = "Mon","l" = "Monday"
 
-Has a "Check for updates" feature with versionning check tied to this repo's README.md in case of future releases.
+AddIn - .xlam file.
+Workfile - .xlsb file.
